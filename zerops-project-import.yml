@@ -1,3 +1,4 @@
+#yamlPreprocessor=on
 project:
   name: recipe-n8n
   tags:
